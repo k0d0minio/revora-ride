@@ -49,8 +49,9 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-muted-foreground leading-relaxed">
-              Motorcycle-inspired balance bikes crafted from steel, built to last generations. 
-              Each bike is designed not just as a toy, but as a cherished icon of childhood adventure.
+              Motorcycle-inspired balance bikes crafted from steel, built to
+              last generations. Each bike is designed not just as a toy, but as
+              a cherished icon of childhood adventure.
             </p>
           </motion.div>
 
@@ -118,7 +119,9 @@ export default function Footer() {
             <ul className="space-y-2 text-muted-foreground">
               <motion.li whileHover={{ x: 5 }}>Balance Bikes</motion.li>
               <motion.li whileHover={{ x: 5 }}>Steel Construction</motion.li>
-              <motion.li whileHover={{ x: 5 }}>Motorcycle-Inspired Design</motion.li>
+              <motion.li whileHover={{ x: 5 }}>
+                Motorcycle-Inspired Design
+              </motion.li>
               <motion.li whileHover={{ x: 5 }}>Custom Fitting</motion.li>
               <motion.li whileHover={{ x: 5 }}>Maintenance Services</motion.li>
             </ul>

@@ -31,7 +31,9 @@ export default function Header() {
                 R
               </span>
             </div>
-            <span className="text-xl font-bold text-foreground">Revora Ride</span>
+            <span className="text-xl font-bold text-foreground">
+              Revora Ride
+            </span>
           </motion.div>
 
           {/* Desktop Navigation */}

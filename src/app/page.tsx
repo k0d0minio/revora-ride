@@ -56,8 +56,9 @@ export default function Home() {
               variants={itemVariants}
               className="text-xl sm:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed"
             >
-              Motorcycle-inspired balance bikes crafted from steel, built to last generations. 
-              Each bike is designed not just as a toy, but as a cherished icon of childhood adventure.
+              Motorcycle-inspired balance bikes crafted from steel, built to
+              last generations. Each bike is designed not just as a toy, but as
+              a cherished icon of childhood adventure.
             </motion.p>
 
             <motion.div
@@ -117,7 +118,10 @@ export default function Home() {
               Ready to Start Your Child&apos;s Adventure?
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Give your child a balance bike that&apos;s built to last generations. Our steel construction and motorcycle-inspired design create a timeless piece that will be cherished as both a toy and a family heirloom.
+              Give your child a balance bike that&apos;s built to last
+              generations. Our steel construction and motorcycle-inspired design
+              create a timeless piece that will be cherished as both a toy and a
+              family heirloom.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="text-lg px-8 py-6">
