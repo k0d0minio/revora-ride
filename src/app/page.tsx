@@ -81,7 +81,7 @@ export default function Home() {
         id="about"
         title="About Revora Ride"
         description="Revora Ride creates motorcycle-inspired balance bikes that are as durable as they are timeless. Crafted from steel, each bike is built to last generations, designed not just as a toy, but as a cherished icon of childhood adventure. We believe in creating bikes that inspire the next generation of riders."
-        imageSrc="/images/children-bikes-showroom.jpg"
+        imageSrc="https://upload.wikimedia.org/wikipedia/commons/d/de/Kids_balance_bike_%28Kinderlaufrad%29.jpg"
         imageAlt="Revora Ride children's balance bike showroom"
       />
 
@@ -90,7 +90,7 @@ export default function Home() {
         id="services"
         title="Our Balance Bike Collection"
         description="From first-time riders to confident adventurers, our steel balance bikes are designed to grow with your child. Each bike features motorcycle-inspired aesthetics, premium steel construction, and timeless design that will be cherished for generations. Built to withstand years of adventure and play."
-        imageSrc="/images/children-bikes-collection.jpg"
+        imageSrc="https://upload.wikimedia.org/wikipedia/commons/7/74/Abgestelltes_Kinder-Laufrad.jpg"
         imageAlt="Collection of Revora Ride steel balance bikes"
         reverse={true}
       />
@@ -100,7 +100,7 @@ export default function Home() {
         id="facility"
         title="Our Craftsmanship Workshop"
         description="Every Revora Ride balance bike is carefully crafted in our workshop, where attention to detail meets timeless design. Our skilled craftsmen ensure each steel frame is perfectly constructed, every component is precisely fitted, and every bike meets our exacting standards for durability and beauty."
-        imageSrc="/images/bicycle-showroom-workshop.jpg"
+        imageSrc="https://upload.wikimedia.org/wikipedia/commons/c/c5/12-06-26-%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4-%D0%B8%D0%BB%D0%B8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8_%D0%B2_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B5-17.jpg"
         imageAlt="Revora Ride craftsmanship workshop"
       />
 

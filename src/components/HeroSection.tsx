@@ -78,6 +78,7 @@ export default function HeroSection({
                   src={imageSrc}
                   alt={imageAlt}
                   fill
+                  unoptimized
                   className="object-cover"
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 />
